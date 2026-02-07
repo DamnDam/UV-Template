@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "ruff.enable": true,
+    "ruff.format.backend": "uv",
+    "ruff.configurationPreference": "filesystemFirst",
+    "ruff.showSyntaxErrors": false,
+    "ty.diagnosticMode": "workspace",
+    "ty.completions.autoImport": false,
+    "ty.showSyntaxErrors": true,
+}
